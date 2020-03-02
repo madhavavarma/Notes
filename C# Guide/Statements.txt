@@ -1,0 +1,30 @@
+
+Application contains program(s)
+
+Program takes actions
+
+Actions are expressed in statements
+
+Common actions include 
+	declaring variables, 
+	assigning values, 
+	calling methods, 
+	looping through collections, 
+	and branching to one or another block of code, depending on a given condition
+	
+Flow of control/Flow of exectution
+	order in which statements are executed in a program
+	flow of control may vary every time that a program is run, depending on how the program reacts to input that it receives at run time
+
+Statement (madeup of)
+	Keywords
+	Expressions
+	Operators
+	
+Single Line Statements
+	single line of code that ends in a semicolon
+	
+Block Statements	
+	series of single-line statements in a block
+	statement block is enclosed in {} brackets 
+	can contain nested blocks
